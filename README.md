@@ -28,7 +28,7 @@ Outcome:Identification of "Gaps" and a roadmap for security maturity.
 ---
 
 ## Technical Skills & Tools
-Frameworks:NIST CSF, ISO/IEC 27001, SOC2.
+Frameworks:NIST CSF, ISO/IEC 27001, GDPR.
 Tools:Google  Docs and Excel, Python (Automation Scripts), GitHub, Linkedln
 Domain Focus: Governance, Risk, and Compliance (GRC).
 
