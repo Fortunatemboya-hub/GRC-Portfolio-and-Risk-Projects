@@ -1,14 +1,14 @@
 # GRC Portfolio & Risk Management Projects
 
 ## About Me
-Aspiring Cybersecurity GRC Professional focused on bridging the gap between technical security controls and business objectives. Currently specializing in NIST frameworks, ISO 27001 compliance, and risk automation.
+Aspiring Cybersecurity GRC Professional focused on bridging the gap between technical security controls and business objectives. Currently specializing in NIST frameworks, ISO 27001 compliance and risk automation.
 
 ## 📁 Project Directory
 
 ### 1. Mock Risk Register
 Objective:Identifying, analyzing, and prioritizing organizational risks.
 Key Features:Risk, Risk scoring, mitigation strategies
-* [View Project Folder]()
+* [View Project Folder](https://docs.google.com/document/d/16ex4KwHHw9SDXAM-6yLJTWaRPenj5rtk5CHm3PmUZBw/edit?tab=t.0)
 
 ### 2. Vendor Security Assessment
 Objective: Evaluating third-party service providers for security compliance.
